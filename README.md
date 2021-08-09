@@ -2,6 +2,8 @@
 
 Basics for git
 
+Read in: [Türkçe](README.tr.md)
+
 ## Initialize the git
 You need to specify a folder or workspace for git to track. After initialization git can detect the changes.
 
